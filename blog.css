@@ -1,0 +1,56 @@
+
+  body {
+
+    padding: 0;
+
+    margin: 0;
+
+    background-image: url(https://www.papeldeparedestar.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/t/star_design_228-3_1.jpeg);
+
+}
+ 
+ nav {
+
+    width: 100%;
+    height: 65px;
+    display: flex;
+    background-color: #d48c70cf;
+   
+
+}
+
+nav a {
+
+    color: #fff;
+    margin: auto 20px auto 40px;
+    text-decoration: none;
+    font-weight: bold;
+    
+
+}
+
+nav li {
+
+    float: left;
+
+    list-style: none;
+
+    margin-left: 20px;
+
+}
+.menu:hover{
+    color: #956654cf;
+}
+
+.imgConcurso{
+    float: right;
+  padding-right: 3%;
+  size: 50px;
+  border-radius: 20%;
+}
+
+.videoBlog{
+    padding-top: 1%;
+    padding-left: 30%;
+    margin-bottom: 8%;
+}
