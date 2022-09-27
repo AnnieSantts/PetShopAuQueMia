@@ -71,7 +71,7 @@ nav li {
 }
 
 .botaoContato {
-    background-color: #E98980;
+    background-color:#a16b56;
     color: white !important;
     width: 10%;
     height: 10%;
@@ -81,7 +81,7 @@ nav li {
 }
 
 .botaoContato:hover {
-    background-color: #a16b56;
+    background-color: #E98980;
 }
 
 .mapa {
@@ -99,7 +99,6 @@ footer {
 }
 
 .icons{
-  padding-left: 1%;
-  padding-right: 1%;
-  padding-bottom: 2%;
+    width: 40px;
+    margin: 10px;
 }

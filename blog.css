@@ -54,3 +54,14 @@ nav li {
     padding-left: 30%;
     margin-bottom: 8%;
 }
+footer {
+
+    width: 100%;
+    height: 60px;
+    display: flex;
+    background-color: #d48c70c3;
+}
+.icons{
+    width: 40px;
+    margin: 10px;
+}
